@@ -21,4 +21,12 @@
     <ProjectReference Include="..\SuggestionAppLibrary\SuggestionAppLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Details.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Details.razor" />
+  </ItemGroup>
+
 </Project>
